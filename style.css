@@ -1,3 +1,11 @@
-img {
-    width: 80px;
+#sidenav1 {
+    float:left;
+    width:200px;
+    height:850px;
+    background-color:blanchedalmond;
+}
+@media screen and (max-width: 800px){
+#sidenav1 {
+    width: 70px;
+}
 }
