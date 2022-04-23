@@ -1,9 +1,11 @@
 #sidenav1 {
     float:left;
     width:200px;
-    height:850px;
-    background-color:blanchedalmond;
+    height:820px;
+    background-color:grey;
+    color:white;
 }
+
 @media screen and (max-width: 800px){
 #sidenav1 {
     width: 70px;
